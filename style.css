@@ -1,0 +1,61 @@
+p {
+    color: #ffffff;
+    line-height: 1.5;
+    margin-bottom: 1em;
+    font-size: 20px;
+    border: black;
+    border-radius: 20px;
+    display: grid;
+    flex: content;
+    padding: 15px;
+    background: #000000b9;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.elemento 
+{
+    color: #007BFF; 
+    font-weight: bold;
+}
+
+#h1l 
+{
+    background-color: rgba(246, 255, 0, 0.66);
+    color: #000000; 
+    text-align: center;
+    margin-top: 0px;
+    padding: 19px;
+    margin-bottom: 20px;
+}
+
+body
+{
+    padding: 0%;
+    margin: 0%;
+    background-attachment: fixed;
+    margin-left: 0px;
+    margin:-right: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(Images/Cryptoimage.avif);
+.Container
+{
+    border: black;
+    border-radius: 20px;
+    display: grid;
+    flex: content;
+    padding: 15px;
+    background: #000000b9;
+}
+li
+{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.individual
+{
+    background-color: #ffffff00;
+    font-size: 20px;
+}
